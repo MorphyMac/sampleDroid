@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyLoginApp</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="scndAcTvT_welcomeNote">Welcome to my app</string>
+    <string name="btn_logout">Logout</string>
+    <string name="text_login">Login</string>
+    <string name="et_hint_username">Enter username</string>
+    <string name="et_hint_pswd">Enter password</string>
+    
+</resources>
